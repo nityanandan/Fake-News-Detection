@@ -12,7 +12,7 @@ Approach:
 
 > Calculated Tf-Idf and used Count Vectorizer to encode the words into integers.
 
-> Algorithms Used and their accuracy (Cross validadtion done)
+> Algorithms Used and their accuracy (Cross validation done)
   * Logistic Regression: 94
   * Decision Tree Classifier: 96
   * Random Forest Classifier:
