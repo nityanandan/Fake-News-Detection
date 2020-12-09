@@ -15,6 +15,6 @@ Approach:
 > Algorithms Used and their accuracy (Cross validation done)
   * Logistic Regression: 94
   * Decision Tree Classifier: 96
-  * Random Forest Classifier:
-  * Naive Bayes Classifier:
-  * KNN Classifier: 
+  * Random Forest Classifier: 97
+  * Naive Bayes Classifier: 78
+  * KNN Classifier: 78
